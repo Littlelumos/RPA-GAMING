@@ -1,2 +1,8 @@
 # RPA-GAMING
-A brand new gaming method
+从图形 (pixel) 角度基于 Python 解决游戏自动化需求
+
+这是一个学习项目，不涉及任何商业内容，请勿利用项目工具进行商业活动
+# Install & Usage
+项目结构正在优化装修中
+
+您可能需要自行下载某一文件夹下的所有内容进行编译
